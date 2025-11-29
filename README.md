@@ -54,7 +54,7 @@ MedicalDiagAI combines:
 │   │   └── *_old.*                      # Older versions of the above
 │   └── __init__.py
 │
-├── data_checking.ipynb     # Notebook for dataset sanity checks
+├── data_checking.ipynb     # Dataset exploration and XGBoost experiments
 └── vector_store.ipynb      # Notebook for retrieval / vector store experiments
 ```
 

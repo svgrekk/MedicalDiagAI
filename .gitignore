@@ -6,4 +6,4 @@ xgb_model.json
 .gradio/
 
 __pycache__/
-*.pyc
+*.pycgit push
