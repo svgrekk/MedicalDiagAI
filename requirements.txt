@@ -1,0 +1,15 @@
+gradio
+
+langchain
+langchain-core
+langchain-community
+langchain-huggingface
+langchain-ollama
+
+numpy
+pydantic
+joblib
+xgboost
+torch
+
+biopython
