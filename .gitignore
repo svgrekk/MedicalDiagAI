@@ -1,3 +1,9 @@
 .DS_Store
 xgb_classifier.joblib
 xgb_model.json
+.idea/
+.ipynb_checkpoints/
+.gradio/
+
+__pycache__/
+*.pyc
