@@ -1,0 +1,405 @@
+{
+  "AIDS": {
+    "muscle_wasting": 149.05517578125,
+    "patches_in_throat": 4.89866828918457,
+    "high_fever": 75.60154724121094,
+    "extra_marital_contacts": 7.738700866699219
+  },
+  "Acne": {
+    "skin_rash": 2.2306888103485107,
+    "pus_filled_pimples": 135.12884521484375,
+    "blackheads": 2.528132438659668,
+    "scurring": 9.642596244812012
+  },
+  "Alcoholic Hepatitis": {
+    "vomiting": 2.8010034561157227,
+    "yellowish_skin": 10.819387435913086,
+    "abdominal_pain": 1.828796148300171,
+    "swelling_of_stomach": 7.61704683303833,
+    "distention_of_abdomen": 3.850684642791748,
+    "history_of_alcohol_consumption": 390.8644104003906,
+    "fluid_overload.1": 3.6743459701538086
+  },
+  "Allergy": {
+    "continuous_sneezing": 2.206812620162964,
+    "shivering": 7.947505474090576,
+    "chills": 0.5350713729858398,
+    "watering_from_eyes": 137.35903930664062
+  },
+  "Arthritis": {
+    "muscle_weakness": 69.400390625,
+    "stiff_neck": 3.2000529766082764,
+    "swelling_joints": 0.6772660613059998,
+    "movement_stiffness": 317.0497131347656,
+    "painful_walking": 5.534214496612549
+  },
+  "Bronchial Asthma": {
+    "fatigue": 1.4912089109420776,
+    "cough": 2.511453151702881,
+    "high_fever": 75.60154724121094,
+    "breathlessness": 11.348939895629883,
+    "family_history": 29.7130126953125,
+    "mucoid_sputum": 191.96160888671875
+  },
+  "Cervical Spondylosis": {
+    "back_pain": 4.910305500030518,
+    "weakness_in_limbs": 187.9151153564453,
+    "neck_pain": 3.4004955291748047,
+    "dizziness": 5.4750566482543945,
+    "loss_of_balance": 1.4112499952316284
+  },
+  "Chickenpox": {
+    "itching": 7.899843215942383,
+    "skin_rash": 2.2306888103485107,
+    "fatigue": 1.4912089109420776,
+    "lethargy": 0.4228290319442749,
+    "high_fever": 75.60154724121094,
+    "headache": 0.43264997005462646,
+    "loss_of_appetite": 0.7364697456359863,
+    "mild_fever": 59.69073486328125,
+    "swelled_lymph_nodes": 0.5830928087234497,
+    "malaise": 209.20846557617188,
+    "red_spots_over_body": 60.5485725402832
+  },
+  "Chronic Cholestasis": {
+    "itching": 7.899843215942383,
+    "vomiting": 2.8010034561157227,
+    "yellowish_skin": 10.819387435913086,
+    "nausea": 19.44684600830078,
+    "loss_of_appetite": 0.7364697456359863,
+    "abdominal_pain": 1.828796148300171,
+    "yellowing_of_eyes": 3.294750213623047
+  },
+  "Common Cold": {
+    "continuous_sneezing": 2.206812620162964,
+    "chills": 0.5350713729858398,
+    "fatigue": 1.4912089109420776,
+    "cough": 2.511453151702881,
+    "high_fever": 75.60154724121094,
+    "headache": 0.43264997005462646,
+    "swelled_lymph_nodes": 0.5830928087234497,
+    "malaise": 209.20846557617188,
+    "phlegm": 0,
+    "throat_irritation": 90.97559356689453,
+    "redness_of_eyes": 0,
+    "sinus_pressure": 0,
+    "runny_nose": 0,
+    "congestion": 0,
+    "chest_pain": 2.649550199508667,
+    "loss_of_smell": 0,
+    "muscle_pain": 23.71438980102539
+  },
+  "Dengue": {
+    "skin_rash": 2.2306888103485107,
+    "chills": 0.5350713729858398,
+    "joint_pain": 2.6258068084716797,
+    "vomiting": 2.8010034561157227,
+    "fatigue": 1.4912089109420776,
+    "high_fever": 75.60154724121094,
+    "headache": 0.43264997005462646,
+    "nausea": 19.44684600830078,
+    "loss_of_appetite": 0.7364697456359863,
+    "pain_behind_the_eyes": 85.63924407958984,
+    "back_pain": 4.910305500030518,
+    "malaise": 209.20846557617188,
+    "muscle_pain": 23.71438980102539,
+    "red_spots_over_body": 60.5485725402832
+  },
+  "Diabetes ": {
+    "fatigue": 1.4912089109420776,
+    "weight_loss": 31.308101654052734,
+    "restlessness": 0.7178558707237244,
+    "lethargy": 0.4228290319442749,
+    "irregular_sugar_level": 0,
+    "blurred_and_distorted_vision": 4.156556129455566,
+    "obesity": 0.7689365148544312,
+    "excessive_hunger": 0.44473204016685486,
+    "increased_appetite": 107.89624786376953,
+    "polyuria": 0
+  },
+  "Dimorphic Hemmorhoids (piles)": {
+    "constipation": 0.8492279648780823,
+    "pain_during_bowel_movements": 401.4150390625,
+    "pain_in_anal_region": 3.7982208728790283,
+    "bloody_stool": 7.875924587249756,
+    "irritation_in_anus": 3.1189770698547363
+  },
+  "Drug Reaction": {
+    "itching": 7.899843215942383,
+    "skin_rash": 2.2306888103485107,
+    "stomach_pain": 5.841096878051758,
+    "burning_micturition": 3.1382944583892822,
+    "spotting_ urination": 148.00991821289062
+  },
+  "Fungal Infection": {
+    "itching": 7.899843215942383,
+    "skin_rash": 2.2306888103485107,
+    "nodal_skin_eruptions": 122.1164779663086,
+    "dischromic _patches": 7.3301777839660645
+  },
+  "GERD": {
+    "stomach_pain": 5.841096878051758,
+    "acidity": 4.428022861480713,
+    "ulcers_on_tongue": 159.82518005371094,
+    "vomiting": 2.8010034561157227,
+    "cough": 2.511453151702881,
+    "chest_pain": 2.649550199508667
+  },
+  "Gastroenteritis": {
+    "vomiting": 2.8010034561157227,
+    "sunken_eyes": 133.8143768310547,
+    "dehydration": 6.87949800491333,
+    "diarrhoea": 0.41019123792648315
+  },
+  "Heart Attack": {
+    "vomiting": 2.8010034561157227,
+    "breathlessness": 11.348939895629883,
+    "sweating": 45.10441970825195,
+    "chest_pain": 2.649550199508667
+  },
+  "Hepatitis A": {
+    "joint_pain": 2.6258068084716797,
+    "vomiting": 2.8010034561157227,
+    "yellowish_skin": 10.819387435913086,
+    "dark_urine": 4.250002384185791,
+    "nausea": 19.44684600830078,
+    "loss_of_appetite": 0.7364697456359863,
+    "abdominal_pain": 1.828796148300171,
+    "diarrhoea": 0.41019123792648315,
+    "mild_fever": 59.69073486328125,
+    "yellowing_of_eyes": 3.294750213623047,
+    "muscle_pain": 23.71438980102539
+  },
+  "Hepatitis B": {
+    "itching": 7.899843215942383,
+    "fatigue": 1.4912089109420776,
+    "lethargy": 0.4228290319442749,
+    "yellowish_skin": 10.819387435913086,
+    "dark_urine": 4.250002384185791,
+    "loss_of_appetite": 0.7364697456359863,
+    "abdominal_pain": 1.828796148300171,
+    "yellow_urine": 0,
+    "yellowing_of_eyes": 3.294750213623047,
+    "malaise": 209.20846557617188,
+    "receiving_blood_transfusion": 86.69120788574219,
+    "receiving_unsterile_injections": 0
+  },
+  "Hepatitis C": {
+    "fatigue": 1.4912089109420776,
+    "yellowish_skin": 10.819387435913086,
+    "nausea": 19.44684600830078,
+    "loss_of_appetite": 0.7364697456359863,
+    "yellowing_of_eyes": 3.294750213623047,
+    "family_history": 29.7130126953125
+  },
+  "Hepatitis D": {
+    "joint_pain": 2.6258068084716797,
+    "vomiting": 2.8010034561157227,
+    "fatigue": 1.4912089109420776,
+    "yellowish_skin": 10.819387435913086,
+    "dark_urine": 4.250002384185791,
+    "nausea": 19.44684600830078,
+    "loss_of_appetite": 0.7364697456359863,
+    "abdominal_pain": 1.828796148300171,
+    "yellowing_of_eyes": 3.294750213623047
+  },
+  "Hepatitis E": {
+    "joint_pain": 2.6258068084716797,
+    "vomiting": 2.8010034561157227,
+    "fatigue": 1.4912089109420776,
+    "high_fever": 75.60154724121094,
+    "yellowish_skin": 10.819387435913086,
+    "dark_urine": 4.250002384185791,
+    "nausea": 19.44684600830078,
+    "loss_of_appetite": 0.7364697456359863,
+    "abdominal_pain": 1.828796148300171,
+    "yellowing_of_eyes": 3.294750213623047,
+    "acute_liver_failure": 0.2631046772003174,
+    "coma": 66.52998352050781,
+    "stomach_bleeding": 0
+  },
+  "Hypertension ": {
+    "headache": 0.43264997005462646,
+    "chest_pain": 2.649550199508667,
+    "dizziness": 5.4750566482543945,
+    "loss_of_balance": 1.4112499952316284,
+    "lack_of_concentration": 221.3620147705078
+  },
+  "Hyperthyroidism": {
+    "fatigue": 1.4912089109420776,
+    "mood_swings": 0,
+    "weight_loss": 31.308101654052734,
+    "restlessness": 0.7178558707237244,
+    "sweating": 45.10441970825195,
+    "diarrhoea": 0.41019123792648315,
+    "fast_heart_rate": 0.6321927905082703,
+    "excessive_hunger": 0.44473204016685486,
+    "muscle_weakness": 69.400390625,
+    "irritability": 368.4651794433594,
+    "abnormal_menstruation": 5.227283000946045
+  },
+  "Hypoglycemia": {
+    "vomiting": 2.8010034561157227,
+    "fatigue": 1.4912089109420776,
+    "anxiety": 0,
+    "sweating": 45.10441970825195,
+    "headache": 0.43264997005462646,
+    "nausea": 19.44684600830078,
+    "blurred_and_distorted_vision": 4.156556129455566,
+    "excessive_hunger": 0.44473204016685486,
+    "drying_and_tingling_lips": 0,
+    "slurred_speech": 101.54976654052734,
+    "irritability": 368.4651794433594,
+    "palpitations": 0
+  },
+  "Hypothyroidism": {
+    "fatigue": 1.4912089109420776,
+    "weight_gain": 0,
+    "cold_hands_and_feets": 0,
+    "mood_swings": 0,
+    "lethargy": 0.4228290319442749,
+    "dizziness": 5.4750566482543945,
+    "puffy_face_and_eyes": 0,
+    "enlarged_thyroid": 101.6355972290039,
+    "brittle_nails": 0,
+    "swollen_extremeties": 0,
+    "depression": 2.9345645904541016,
+    "irritability": 368.4651794433594,
+    "abnormal_menstruation": 5.227283000946045
+  },
+  "Impetigo": {
+    "skin_rash": 2.2306888103485107,
+    "high_fever": 75.60154724121094,
+    "blister": 5.891777515411377,
+    "red_sore_around_nose": 4.42243766784668,
+    "yellow_crust_ooze": 390.8296813964844
+  },
+  "Jaundice": {
+    "itching": 7.899843215942383,
+    "vomiting": 2.8010034561157227,
+    "fatigue": 1.4912089109420776,
+    "weight_loss": 31.308101654052734,
+    "high_fever": 75.60154724121094,
+    "yellowish_skin": 10.819387435913086,
+    "dark_urine": 4.250002384185791,
+    "abdominal_pain": 1.828796148300171
+  },
+  "Malaria": {
+    "chills": 0.5350713729858398,
+    "vomiting": 2.8010034561157227,
+    "high_fever": 75.60154724121094,
+    "sweating": 45.10441970825195,
+    "headache": 0.43264997005462646,
+    "nausea": 19.44684600830078,
+    "diarrhoea": 0.41019123792648315,
+    "muscle_pain": 23.71438980102539
+  },
+  "Migraine": {
+    "acidity": 4.428022861480713,
+    "indigestion": 1.6489683389663696,
+    "headache": 0.43264997005462646,
+    "blurred_and_distorted_vision": 4.156556129455566,
+    "excessive_hunger": 0.44473204016685486,
+    "stiff_neck": 3.2000529766082764,
+    "depression": 2.9345645904541016,
+    "irritability": 368.4651794433594,
+    "visual_disturbances": 172.50767517089844
+  },
+  "Osteoarthritis": {
+    "joint_pain": 2.6258068084716797,
+    "neck_pain": 3.4004955291748047,
+    "knee_pain": 8.419215202331543,
+    "hip_joint_pain": 194.01675415039062,
+    "swelling_joints": 0.6772660613059998,
+    "painful_walking": 5.534214496612549
+  },
+  "Paralysis (brain hemorrhage)": {
+    "vomiting": 2.8010034561157227,
+    "headache": 0.43264997005462646,
+    "weakness_of_one_body_side": 5.853916645050049,
+    "altered_sensorium": 155.84500122070312
+  },
+  "Peptic Ulcer Disease": {
+    "vomiting": 2.8010034561157227,
+    "indigestion": 1.6489683389663696,
+    "loss_of_appetite": 0.7364697456359863,
+    "abdominal_pain": 1.828796148300171,
+    "passage_of_gases": 221.17625427246094,
+    "internal_itching": 7.321274757385254
+  },
+  "Pneumonia": {
+    "chills": 0.5350713729858398,
+    "fatigue": 1.4912089109420776,
+    "cough": 2.511453151702881,
+    "high_fever": 75.60154724121094,
+    "breathlessness": 11.348939895629883,
+    "sweating": 45.10441970825195,
+    "malaise": 209.20846557617188,
+    "phlegm": 0,
+    "chest_pain": 2.649550199508667,
+    "fast_heart_rate": 0.6321927905082703,
+    "rusty_sputum": 91.14337921142578
+  },
+  "Psoriasis": {
+    "skin_rash": 2.2306888103485107,
+    "joint_pain": 2.6258068084716797,
+    "skin_peeling": 2.9463179111480713,
+    "silver_like_dusting": 8.452766418457031,
+    "small_dents_in_nails": 790.894287109375,
+    "inflammatory_nails": 3.986839771270752
+  },
+  "Tuberculosis": {
+    "chills": 0.5350713729858398,
+    "vomiting": 2.8010034561157227,
+    "fatigue": 1.4912089109420776,
+    "weight_loss": 31.308101654052734,
+    "cough": 2.511453151702881,
+    "high_fever": 75.60154724121094,
+    "breathlessness": 11.348939895629883,
+    "sweating": 45.10441970825195,
+    "loss_of_appetite": 0.7364697456359863,
+    "mild_fever": 59.69073486328125,
+    "yellowing_of_eyes": 3.294750213623047,
+    "swelled_lymph_nodes": 0.5830928087234497,
+    "malaise": 209.20846557617188,
+    "phlegm": 0,
+    "chest_pain": 2.649550199508667,
+    "blood_in_sputum": 86.7567138671875
+  },
+  "Typhoid": {
+    "chills": 0.5350713729858398,
+    "vomiting": 2.8010034561157227,
+    "fatigue": 1.4912089109420776,
+    "high_fever": 75.60154724121094,
+    "headache": 0.43264997005462646,
+    "nausea": 19.44684600830078,
+    "constipation": 0.8492279648780823,
+    "abdominal_pain": 1.828796148300171,
+    "diarrhoea": 0.41019123792648315,
+    "toxic_look_(typhos)": 221.39620971679688,
+    "belly_pain": 7.695034503936768
+  },
+  "Urinary Tract Infection": {
+    "burning_micturition": 3.1382944583892822,
+    "bladder_discomfort": 168.53424072265625,
+    "foul_smell_of urine": 5.470991134643555,
+    "continuous_feel_of_urine": 8.277363777160645
+  },
+  "Varicose Veins": {
+    "fatigue": 1.4912089109420776,
+    "cramps": 3.3609509468078613,
+    "bruising": 3.0515618324279785,
+    "obesity": 0.7689365148544312,
+    "swollen_legs": 8.9630708694458,
+    "swollen_blood_vessels": 1.1203382015228271,
+    "prominent_veins_on_calf": 790.8831176757812
+  },
+  "Vertigo": {
+    "vomiting": 2.8010034561157227,
+    "headache": 0.43264997005462646,
+    "nausea": 19.44684600830078,
+    "spinning_movements": 6.581871509552002,
+    "loss_of_balance": 1.4112499952316284,
+    "unsteadiness": 155.58981323242188
+  }
+}
