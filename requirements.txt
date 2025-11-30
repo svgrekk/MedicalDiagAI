@@ -1,4 +1,4 @@
-gradio
+gradio==5.49.1
 
 langchain
 langchain-core
@@ -13,3 +13,6 @@ xgboost
 torch
 
 biopython
+
+
+xmltodict
